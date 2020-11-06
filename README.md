@@ -5,3 +5,4 @@ Uses ADS122U04 ADC and MCP2200 UART/GPIO - USB converter. No Dedicated uC.
 
 Project for fun and curiosity with a purpose to make a simple yte precise USB DAQ without a dedicated controller requireig firmware. 
 
+Forked to add an Eagle based pcb made by myself.
